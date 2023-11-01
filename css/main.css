@@ -43,7 +43,7 @@
   display: inline-block;
   text-align: right;
   padding-left: 30px;
-  padding-right: 100px;
+  padding-right: 90px;
 }
 .ntua_kitchen_white li {
   display: inline-block;
@@ -75,6 +75,10 @@
 .hero {
   font-family: "DM Sans", sans-serif;
   text-align: center;
+  background-image: url(../img/bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 612px;
 }
 
 .hero h1 {
